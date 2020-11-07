@@ -16,3 +16,8 @@
 
 ###### Demo :
  - https://alediass.github.io/to_do-list-webpage/.
+
+
+
+#### Features:
+ - Responsive
