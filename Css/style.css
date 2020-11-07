@@ -1,0 +1,40 @@
+@import "./header.css";
+@import "./main.css";
+@import "./add-remove-btn.css";
+@import "./todo.css";
+@import "./responsive.css";
+@import "./animations.css";
+
+body {
+  background-color: rgba(252, 247, 247, 0.418);
+}
+
+*,
+input,
+textarea,
+button,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+ul {
+  list-style: none;
+}
+
+a:link,
+a:active,
+a:visited {
+  color: black;
+}
+
+button {
+  cursor: pointer;
+}

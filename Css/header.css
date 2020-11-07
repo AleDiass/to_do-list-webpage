@@ -1,0 +1,16 @@
+header {
+  border-bottom: 1px rgb(241, 239, 239) solid;
+  height: 20vh;
+  border-radius: 0 0 5rem 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 1rem;
+  font-weight: 800;
+}

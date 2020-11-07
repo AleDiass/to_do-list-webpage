@@ -1,0 +1,22 @@
+@keyframes anim-create {
+  0% {
+  }
+  50% {
+    border: 1px solid rgb(212, 231, 212);
+    box-shadow: 0 0 5px rgb(169, 230, 169);
+  }
+  100% {
+    border: 1px solid rgb(212, 231, 212);
+  }
+}
+
+.created-anim {
+  animation-name: anim-create;
+  animation-duration: 1s;
+
+  animation-direction: alternate;
+}
+
+button {
+  transition: all 0.2s;
+}
