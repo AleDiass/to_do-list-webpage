@@ -3,7 +3,7 @@
 #### a Simple To-do List 
 
 ## Created With : 
-#### - Css;
+ - Css;
  - Html ;
  - JavaScript;
  - LocalStorage API;
